@@ -28,12 +28,16 @@ Font: antiqua</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>98</td>
+            <td>3</td>
+            <td>26</td>
+            <td>3</td>
          </tr>
       </tbody>
    </table>
@@ -62,7 +66,27 @@ Font: antiqua</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>ballenstedt_delatio_1777</td>
+                  <td>26</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>98</td>
+                  <td>3</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
