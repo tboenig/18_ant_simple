@@ -16,8 +16,7 @@ authors:
 description: >-
   Ground Truth with a collection of documents with the following
   characteristics: 
-
-  Font: antiqua
+  font antiqua
 project-name: OCR-D
 project-website: https://ocr-d.de/
 language:
