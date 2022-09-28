@@ -16,8 +16,7 @@
       <dt>Name:</dt>
       <dd>18_ant_simple</dd>
       <dt>Description:</dt>
-      <dd>Ground Truth with a collection of documents with the following characteristics: 
-Font: antiqua</dd>
+      <dd>Ground Truth with a collection of documents with the following characteristics:  font antiqua</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>

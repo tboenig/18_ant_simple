@@ -5,8 +5,7 @@
       <dt>Name:</dt>
       <dd>18_ant_simple</dd>
       <dt>Description:</dt>
-      <dd>Ground Truth with a collection of documents with the following characteristics: 
-Font: antiqua</dd>
+      <dd>Ground Truth with a collection of documents with the following characteristics:  font antiqua</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -37,7 +36,7 @@ Font: antiqua</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
+         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_ant_simple/releases">Version archive</a>
