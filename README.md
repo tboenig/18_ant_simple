@@ -1,7 +1,6 @@
 <div>
    <h1 id="title">18_ant_simple</h1>
-   <p id="paragraph">Ground Truth with a collection of documents with the following characteristics: 
-Font: antiqua</p>
+   <p id="paragraph">Ground Truth with a collection of documents with the following characteristics:  font antiqua</p>
    <h2>Metadata</h2>
    <dl class="grid">
       <dt id="Language">Language:</dt>
