@@ -19,7 +19,7 @@
       <summary>More Information</summary>
       <dl class="more-grid">
          <dt>Transcription Guidelines:</dt>
-         <dd>OCR-D Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
+         <dd>OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/</dd>
          <dt>License:</dt>
          <dd>CC0 1.0</dd>
          <dt>Project:</dt>
@@ -36,7 +36,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
+         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v5/bagitDump-v5.zip">Current version download: bagitDump-v5.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_ant_simple/releases">Version archive</a>
