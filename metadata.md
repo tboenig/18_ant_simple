@@ -36,14 +36,29 @@
                (PRImA-Research-Lab) at the University of Salford. 
                This normalized and semantic description of the OCR-GT data can be found in the METS metadata file. 
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
-   <p>For a description and explanation of the labeling metadata, 
-               see: <a href="=https://ocr-d.de/en/gt-guidelines/labeling/OCR-D_GT_labeling_schema_xsd_Element_gt_gt.html#gt_gt_state_prop">Labelings</a>.</p>
-   <ul>
-      <li>granularity/physical/document-related/word</li>
-      <li>granularity/physical/document-related/text-line</li>
-      <li>granularity/physical/document-related/region</li>
-      <li>data-attributes/document-related/visual/text/font/multi-font/font-sizes</li>
-   </ul>
+   <p>Here you will find a description and explanation of the labeling metadata.</p>
+   <details>
+      <summary>granularity/physical/document-related/word</summary>
+      <p>
+         <strong>Description: </strong>Word or partial word, if separated by line break, for example</p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/text-line</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
+   </details>
+   <details>
+      <summary>data-attributes/document-related/visual/text/font/multi-font/font-sizes</summary>
+      <p>
+         <strong>Description: </strong>More than one font size used</p>
+   </details>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -52,7 +67,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
+         <a href="https://github.com/tboenig/18_ant_simple/releases/download/v7/bagitDump-v7.zip">Current version download: bagitDump-v7.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_ant_simple/releases">Version archive</a>
