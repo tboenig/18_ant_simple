@@ -134,25 +134,6 @@
    </thead>
    <tbody>
       <tr>
-         <th>ballenstedt_delatio_1777_00003.xml</th>
-         <td>9</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>31</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>ballenstedt_delatio_1777_00005.xml</th>
          <td>9</td>
          <td>0</td>
@@ -188,6 +169,25 @@
          <td>0</td>
          <td>0</td>
          <td>33</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>ballenstedt_delatio_1777_00003.xml</th>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>31</td>
          <td>1</td>
       </tr>
    </tbody>
