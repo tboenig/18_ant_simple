@@ -239,28 +239,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.0.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00005.xml">ballenstedt_delatio_1777_00005.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.0.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00010.xml">ballenstedt_delatio_1777_00010.xml</a>
+                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.1.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00010.xml">ballenstedt_delatio_1777_00010.xml</a>
                            </td>
                            <td>33</td>
                            <td>1</td>
@@ -281,9 +260,30 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.0.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00003.xml">ballenstedt_delatio_1777_00003.xml</a>
+                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.1.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00003.xml">ballenstedt_delatio_1777_00003.xml</a>
                            </td>
                            <td>31</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_ant_simple/blob/v1.1.0/data/ballenstedt_delatio_1777/GT-PAGE/ballenstedt_delatio_1777_00005.xml">ballenstedt_delatio_1777_00005.xml</a>
+                           </td>
+                           <td>34</td>
                            <td>1</td>
                            <td>9</td>
                            <td>0</td>
